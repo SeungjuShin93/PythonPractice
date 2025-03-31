@@ -8,7 +8,6 @@ print(type(dic))  # <class 'dict'>
 
 a = {1: 'hi'}
 print(a)
-a = {'a': [1, 2, 3]}
 print(a)
 
 #! 딕셔너리 쌍 추가, 삭제하기
