@@ -32,7 +32,7 @@ print("life", "is", "too short")
 #! 한 줄에 결괏값 출력하기
 for i in range(10):
     print(i, end=' ')
-#
+# 재미
 print()
 for i in range(10):
     print(i, end='ㅋㅋ')
