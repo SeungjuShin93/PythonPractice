@@ -1,14 +1,10 @@
+my_list = ['hi', 'hello', '안녕']
 
-add = 0
-for i in range(1, 11):
-    add = add + i
+print(my_list[0])
+print(my_list[1])
+print(my_list[2])
 
-print(add)
-
-
-a = [1, 2, 3, 4]
-result = []
-for num in a:
-    result.append(num*3)
-
-print(result)
+index = 0
+while index < len(my_list):
+    print(my_list[index])
+    index += 1
